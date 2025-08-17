@@ -1,1 +1,1 @@
-# SCT_T3_WD
+# SCT_WD_3
